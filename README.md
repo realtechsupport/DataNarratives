@@ -12,7 +12,7 @@ Text resources:
 The Visual Display of Quantitative Information by Edward Tufte  
 The Functional Art: An introduction to information graphics and visualization by Alberto Cairo
 
-Computing resources:
+Computing resources:  
 Python, Numpy, Pandas, Plotly  
 
 Related courses:  
