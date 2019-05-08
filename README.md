@@ -5,7 +5,7 @@ ART350 - Special Topics -
 MoWe 9:00AM - 11:30AM, CFA 136   
 Reg# 23700  
 
-This course is designed for artists and designers who want to learn how to integrate data visualization into their creative practice.
+This course is designed for artists and designers who want to learn how to carefully integrate data visualization into their creative practice.
 
 This course combines story telling with data practices. In order to achieve this goal, the course will combine the old craft of identifying and researching an event worthy of attention together with new craft of data visualization, with lots of attention on  information manipulation across all media.  
 
