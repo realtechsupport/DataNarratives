@@ -2,7 +2,7 @@
 
 University at Buffalo, Department of ART  
 ART350 - Special Topics -  
-MoWe 9:00AM - 11:30AM  
+MoWe 9:00AM - 11:30AM, CFA 136 
 Reg# 23700  
 
 This course is designed for artists and designers who want to learn how to integrate data visualization into their creative practice.
