@@ -14,10 +14,10 @@ We will use computer code developed on cloud platforms to organize, annotate and
 Students will learn the basics of information capture through data and the use of graphical elements to display numerical relationships.  
 
 Text resources:   
-The Visual Display of Quantitative Information by Edward Tufte  
-The Functional Art: An introduction to information graphics and visualization by Alberto Cairo  
-Critical InfoVis by Marian Dörk, Patrick Feng, Christopher Collins, Sheelagh Carpendale  
-And others...  
+  The Visual Display of Quantitative Information by Edward Tufte  
+  The Functional Art: An introduction to information graphics and visualization by Alberto Cairo  
+  Critical InfoVis by Marian Dörk, Patrick Feng, Christopher Collins, Sheelagh Carpendale  
+  and others...  
 
 Computing resources:  
 Python, Numpy, Pandas, Plotly  
