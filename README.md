@@ -15,5 +15,8 @@ The Functional Art: An introduction to information graphics and visualization by
 Computing resources:
 Python, Numpy, Pandas, Plotly  
 
+Related courses:  
+[ActionCameraCode](https://github.com/realtechsupport/ActionCameraCode)  
+
 Syllabus:
 TBA  
