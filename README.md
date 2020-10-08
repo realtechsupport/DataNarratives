@@ -2,8 +2,8 @@
 
 University at Buffalo, Department of ART  
 ART350 - Special Topics -  
-MoWe 9:00AM - 11:30AM, CFA 136   
-Reg# 23700  
+TueThur 15:15 - 17:00AM, [CFA 136] - remote instruction   
+Reg# 24472  
 
 This course is designed for artists and designers who want to learn how to carefully integrate data visualization into their creative practice.
 
@@ -17,11 +17,11 @@ Text resources:
  - The Visual Display of Quantitative Information by Edward Tufte  
  - The Functional Art: An introduction to information graphics and visualization by Alberto Cairo  
  - Critical InfoVis by Marian Dörk, Patrick Feng, Christopher Collins, Sheelagh Carpendale  
- - and others...  
+  
 
 
 Computing resources:  
-Python, Numpy, Pandas, Plotly  
+Python, Numpy, Pandas, Plotly, Jupyter notebook  
 
 
 Related courses:  
