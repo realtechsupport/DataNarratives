@@ -2,7 +2,7 @@
 
 University at Buffalo, Department of ART  
 ART350 - Special Topics -  
-TueThur 15:15 - 17:00AM, [CFA 136] - remote instruction   
+TueThur 15:15 - 17:00AM, remote instruction   
 Reg# 24472  
 
 This course is designed for artists and designers who want to learn how to carefully integrate data visualization into their creative practice.
