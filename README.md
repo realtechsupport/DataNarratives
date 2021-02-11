@@ -2,7 +2,7 @@
 
 University at Buffalo, Department of ART  
 ART350 - Special Topics -  
-TueThur 15:15 - 17:00AM, remote instruction   
+TueThur 15:15 - 17:00, remote instruction   
 Reg# 24472  
 
 This course is designed for artists and designers who want to learn how to carefully integrate data visualization into their creative practice.
@@ -18,15 +18,11 @@ Text resources:
  - The Functional Art: An introduction to information graphics and visualization by Alberto Cairo  
  - Critical InfoVis by Marian Dörk, Patrick Feng, Christopher Collins, Sheelagh Carpendale  
   
-
-
 Computing resources:  
 Python, Numpy, Pandas, Plotly, Jupyter notebook  
 
-
 Related courses:  
 [ActionCameraCode](https://github.com/realtechsupport/ActionCameraCode)  
-
 
 Syllabus:
 TBA  
