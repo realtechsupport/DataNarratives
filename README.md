@@ -9,7 +9,7 @@ This course combines story telling  with computational media and data practices.
 
 We will use computer code created on cloud platforms to organize, annotate and display data sets collected from different domains (social media, environmental sciences, remote sensing, etc.)  and learn about fundamental concepts behind time series datasets, basic statistical principles, and reflect on the opportunities and limitations of what datasets can tell us. We will explore various visualization approaches and techniques to transfer what we glean from the data into compelling and refined visual artifacts. Furthermore, we will consider how audience and platform impact visualization generation, considering delivery ranging from the general public to domain experts, and from print to mobile media.
 
-This course is designed primarily for artists, architects and designers who want to learn how to carefully integrate data visualization into their creative practices. It can equally well serve other students interested in expanding their data handling and visualization skills.
+This course is designed primarily for artists, architects and designers who want to learn how to  integrate high quality data visualization into their creative practices. It can equally well serve other students interested in expanding their data handling and visualization skills.
 
   
   
