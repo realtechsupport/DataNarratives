@@ -19,7 +19,7 @@ Text resources:
  - Critical InfoVis by Marian Dörk, Patrick Feng, Christopher Collins, Sheelagh Carpendale  
   
 Computing resources:  
-Python, Numpy, Pandas, Cartopy, Plotly, Seaborn, Jupyter notebook  
+Python, Numpy, Pandas, Cartopy, Plotly, Bokeh, Seaborn and Jupyter notebook  
 
 Related courses:  
 [ActionCameraCode](https://github.com/realtechsupport/ActionCameraCode)  
