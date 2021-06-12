@@ -2,16 +2,15 @@
 
 University at Buffalo, Department of ART  
 ART350 - Special Topics -  
-TueThur 15:15 - 17:00, remote instruction   
+TueThur 15:15 - 17:00  
 Reg# 24472  
 
-This course is designed for artists and designers who want to learn how to carefully integrate data visualization into their creative practice.
+This course combines story telling  with computational media and data practices. 
 
-This course combines story telling with data practices. In order to achieve this goal, the course will combine the old craft of identifying and researching an event worthy of attention together with new craft of data visualization, with lots of attention on  information manipulation across all media.  
+We will use computer code developed on cloud platforms to organize, annotate and display data sets collected from different domains (social media, environmental studies)  and learn about fundamental concepts behind time series datasets together and basis statistical principles, and reflect on the opportunities and limitations of what such information can reliably tell us. We will explore various visualization approaches and techniques to transfer what we understand in and from the data into compelling visual artifacts.
 
-We will use computer code developed on cloud platforms to organize, annotate and display data as a key element in the making of a narrative event. Importantly, we will not limit the creation methods to computational media, rather we will seek to combine traditional drawing and sketching approaches into computer produced output as hybrid visual products.
-
-Students will learn the basics of information capture through data and the use of graphical elements to display numerical relationships.  
+This course is designed primarily for artists, architects and designers who want to learn how to carefully integrate data visualization into their creative practices and can equally well serve other students interested in expanding their data handling skills.
+  
 
 Text resources:  
  - The Visual Display of Quantitative Information by Edward Tufte  
