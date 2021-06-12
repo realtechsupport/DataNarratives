@@ -20,8 +20,9 @@ Text resources:
   
   
 Computing and visualization environments:
-
-Python, Numpy, Pandas, Matplotlib, Cartopy, Plotly, Bokeh, Seaborn and Jupyter notebook
+- Python, Numpy, Pandas, Matplotlib
+- Cartopy, Plotly, Bokeh, Seaborn
+- Jupyter notebook
  
 
 
