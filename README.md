@@ -26,7 +26,7 @@ Python, Numpy, Pandas, Matplotlib, Cartopy, Plotly, Bokeh, Seaborn and Jupyter n
 
 
 Related courses:  
-[ActionCameraCode](https://github.com/realtechsupport/ActionCameraCode)  
+- [ActionCameraCode](https://github.com/realtechsupport/ActionCameraCode)  
 
 
 Syllabus:
