@@ -19,6 +19,10 @@ Text resources:
  - Critical InfoVis by Marian Dörk, Patrick Feng, Christopher Collins, Sheelagh Carpendale  
   
   
+References:  
+- Isabel Meirelles, Massimo Vignelli, Fernanda Viegas and Martin Wattenberg, Stamen
+- Hans Rosling, Forensic Architecture, Michael Friendly, Mona Chalabi
+  
 Computing and visualization environments:
 - Python, Numpy, Pandas, Matplotlib
 - Cartopy, Plotly, Bokeh, Seaborn
